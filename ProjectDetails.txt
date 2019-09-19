@@ -1,0 +1,31 @@
+PREREQISITES
+------------
+JDK 1.8
+sts 3.9
+MySQL
+Postman
+
+
+OBJECTIVE
+---------
+To be in state to give answers to the interviewers about the project questions
+
+PATH/STEPS
+----------
+1. To understand how files are arranged in a project or in STS Framework
+	Youtube Videos
+	javainuse.com
+	baeldung.com
+2. How to send/recieve data from one file to another
+	Eg :- how data is recived in service class from dao
+	Eg :- how data is recived in main class from dao
+3. How to connect database with our project
+	MySQL(queries, url)
+connect database with java sts
+4. FrontEnd(Integration with backend)
+	JSP, HTML, 
+	Eg : JSP integration with java
+
+PROJECT TO BE COPIED
+---------------------
+		
